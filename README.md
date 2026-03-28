@@ -1,2 +1,23 @@
-# Coursera_sql_dataScience_Project
-The Project was the part of Course of Databases and SQL for Data Science with Python, this Course is a part of IBM Data Analyst Professional Certificate. # Chicago Crime Data Analysis (SQL)  This project analyzes Chicago crime, census, and public school datasets using SQL queries inside a Jupyter Notebook.  # Tools -Python -SQLite -Jupyter Notebook
+# Chicago Crime Data Analysis (SQL)
+
+This project analyzes Chicago crime, census, and public school datasets using SQL queries inside a Jupyter Notebook.
+
+## Tools
+- Python
+- SQLite
+- Jupyter Notebook
+
+## Dataset
+Chicago public datasets including:
+- Crime data
+- Census data
+- Public school data
+
+## Key Queries
+- Total crimes recorded
+- Crimes involving minors
+- Community areas with low per-capita income
+- Crime patterns by location
+
+## Course
+IBM Data Science Professional Certificate (Coursera)
