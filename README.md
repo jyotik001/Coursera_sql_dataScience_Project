@@ -1,5 +1,4 @@
 # Chicago Crime Data Analysis (SQL)
-
 This project analyzes Chicago crime, census, and <br> public school datasets using SQL queries inside a Jupyter Notebook.
 
 ## Tools
